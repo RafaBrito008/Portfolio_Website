@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Restaurant Mobile App",
-    description: "Project 1 description",
+    description: "An Android mobile app for a restaurant, designed to view the menu and place orders online",
     image: "/images/projects/app_restaurant.jpg",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/RafaBrito008/App_Restaurant"
@@ -16,7 +16,7 @@ const projectsData = [
   {
     id: 2,
     title: "Web Coffe Shop",
-    description: "Project 2 description",
+    description: "A user-friendly website for a café, offering an interactive menu and seamless online ordering experience",
     image: "/images/projects/coffe_shop.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/RafaBrito008/Web_Coffe_Shop"
@@ -32,7 +32,7 @@ const projectsData = [
   {
     id: 4,
     title: "Uninformed Search Algorithms",
-    description: "Project 4 description",
+    description: "Implementations in Python of various uninformed search algorithms applied to mazes.",
     image: "/images/projects/uninformed_search_algorithms.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/Uninformed_Search_Algorithms"
@@ -40,7 +40,7 @@ const projectsData = [
   {
     id: 5,
     title: "Missionaries and Cannibals",
-    description: "Authentication and CRUD operations",
+    description: "Solving the Missionaries and Cannibals problem using the Breadth-first search and Bidirectional search algorithms.",
     image: "/images/projects/missionaries_and_cannibals.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/Missionaries_Cannibals"
@@ -48,7 +48,7 @@ const projectsData = [
   {
     id: 6,
     title: "8-Queens Hill Climbing",
-    description: "Project 5 description",
+    description: "A Python-based interactive 8-Queens chess puzzle solver using the Tkinter GUI framework, featuring randomized queen placement and conflict resolution.",
     image: "/images/projects/8-queens_hill_climbing.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/8-Queens_Hill_Climbing"
@@ -56,7 +56,7 @@ const projectsData = [
   {
     id: 7,
     title: "8-Queens Genetic Algorithm",
-    description: "Project 5 description",
+    description: "A Python script for solving the 8-Queens problem using a genetic algorithm approach, including a graphical representation of the solution using Tkinter.",
     image: "/images/projects/8-queens_genetic_algorithm.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/8-Queens_Genetic-Algorithm"
@@ -64,7 +64,7 @@ const projectsData = [
   {
     id: 8,
     title: "PRISM Algorithm",
-    description: "Project 5 description",
+    description: "A Python script for generating and analyzing a random dataset to find rules based on confidence and support, using Pandas and Colorama.",
     image: "/images/projects/prism.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/PRISM-Algorithm"
@@ -72,7 +72,7 @@ const projectsData = [
   {
     id: 9,
     title: "RGB Image Editor",
-    description: "Project 5 description",
+    description: "Two Python scripts for an RGB image editor with Tkinter interface, enabling image loading, RGB adjustments, and histogram display.",
     image: "/images/projects/rgb_editor.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/RGB-ImageEditor"
@@ -80,7 +80,7 @@ const projectsData = [
   {
     id: 10,
     title: "Image Geometry Properties",
-    description: "Project 5 description",
+    description: "A Python script for an image processing application, featuring image loading, transformation, and contour detection with a graphical user interface.",
     image: "/images/projects/geometry_properties.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/Image_Geometry_Properties"
@@ -88,7 +88,7 @@ const projectsData = [
   {
     id: 11,
     title: "Image Smoothing Filters",
-    description: "Project 5 description",
+    description: "A script for an image processing application, featuring noise addition, filtering techniques, and Fourier transform visualization.",
     image: "/images/projects/smoothing_filters.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/ImageSmoothingFilters"
@@ -96,7 +96,7 @@ const projectsData = [
   {
     id: 12,
     title: "Image Sharpening Filters",
-    description: "Project 5 description",
+    description: "An image processing application with various smoothing and sharpening filters, such as Gaussian, Laplacian, Sobel, Prewitt, and Roberts.",
     image: "/images/projects/sharpening_filters.jpg",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/RafaBrito008/ImageSharpeningFilters"
