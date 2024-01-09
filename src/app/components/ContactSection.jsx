@@ -15,7 +15,7 @@ const ContactSection = () => {
           Let's Connect
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md text-lg lg:text-xl">
-          Always on the lookout for exciting collaborations and opportunities, I'm open for a chat. Feel free to reach out to me via my LinkedIn or GitHub profiles. Whether it's a project idea, a question, or just a friendly hello, I'm eager to connect and respond to your messages!
+          Always on the lookout for exciting collaborations and opportunities, I&apos;m open for a chat. Feel free to reach out to me via my LinkedIn or GitHub profiles. Whether it&apos;s a project idea, a question, or just a friendly hello, I&apos;m eager to connect and respond to your messages!
         </p>
       </div>
       <div className="z-10 col-span-1 flex justify-end">

@@ -82,7 +82,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Hello from Ambato, Ecuador! As a dedicated Software Engineering student at the Technical University of Ambato, I thrive on continuous learning and mastering new technologies. With skills in web development and a knack for adaptability, I'm ready to collaborate with global teams to innovate and craft the future of tech. Let's connect and create!
+            Hello from Ambato, Ecuador! As a dedicated Software Engineering student at the Technical University of Ambato, I thrive on continuous learning and mastering new technologies. With skills in web development and a knack for adaptability, I&apos;m ready to collaborate with global teams to innovate and craft the future of tech. Let&apos;s connect and create!
           </p>
           <div className="flex flex-row justify-start mt-8">
             {TAB_DATA.map((tabData) => (
