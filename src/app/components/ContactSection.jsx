@@ -12,7 +12,7 @@ const ContactSection = () => {
     >
       <div className="z-10 col-span-1">
         <h5 className="text-xl font-bold text-white my-2">
-          Let's Connect
+          Let&apos;s Get in Touch
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md text-lg lg:text-xl">
           Always on the lookout for exciting collaborations and opportunities, I&apos;m open for a chat. Feel free to reach out to me via my LinkedIn or GitHub profiles. Whether it&apos;s a project idea, a question, or just a friendly hello, I&apos;m eager to connect and respond to your messages!
