@@ -1,8 +1,7 @@
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/judygab/portfolio-website.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+1. Clone the repository: `https://github.com/RafaBrito008/Portfolio_Website.git`
+2. Install the dependencies: `npm install`
 
 ## Usage
 
@@ -13,8 +12,8 @@
 
 The following dependencies are required for this project:
 
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+- Next.js
+- Tailwind CSS
+- React
+- React Icons
+- TypeScript
