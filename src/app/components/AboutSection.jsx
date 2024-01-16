@@ -58,7 +58,6 @@ const TAB_DATA = [
         <li>TOEFL Junior</li>
         <li>TOEIC</li>
         <li>TOEFL iBT</li>
-        <li>TOEFL iBT</li>
         <li>CSEI 2020 - 2023</li>
       </ul>
     ),
